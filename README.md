@@ -8,4 +8,4 @@ cd ScanIptv
 
 ls
 
-phyton 3 IPTV_Destroyer.py
+python 3 IPTV_Destroyer.py
